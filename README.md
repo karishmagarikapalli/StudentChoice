@@ -50,3 +50,4 @@ The simulation based application can cause some extent of physical disassociatio
 
 All of the above fade over time as one gains experience.
 
+### Simulation Sickness - 3/10
