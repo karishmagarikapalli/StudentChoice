@@ -9,13 +9,7 @@ VR is being used at every stage of production. Most common applications are:
 - Training
 - Safety in seif-driving automobiles
 
-<object width="425" height="350">
-  <param name="movie" value="https://www.youtube.com/watch?v=mWaQfjEJIMQ" />
-  <param name="wmode" value="transparent" />
-  <embed src="https://www.youtube.com/watch?v=mWaQfjEJIMQ"
-         type="application/x-shockwave-flash"
-         wmode="transparent" width="425" height="350" />
-</object>
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/mWaQfjEJIMQ/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
 
 [![Watch the video](https://github.com/karishmagarikapalli/StudentChoice/blob/master/Screenshot%20(48).png)](https://www.youtube.com/watch?v=mWaQfjEJIMQ)
 
