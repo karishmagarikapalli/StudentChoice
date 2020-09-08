@@ -30,7 +30,7 @@ VR is used to develop a lot of features benefiting customers, here are a few:
 - Driving Aids
 - Car Infotainment Systems
 
-[![Watch the video](https://github.com/karishmagarikapalli/StudentChoice/blob/master/Screenshot%20(49).png)](https://www.youtube.com/watch?v=xMp5b8s67AU)
+[![Watch the video](https://github.com/karishmagarikapalli/StudentChoice/blob/master/Screenshot%20(50).png)](https://www.youtube.com/watch?v=xMp5b8s67AU)
 
 ## Pros
 
