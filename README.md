@@ -10,17 +10,15 @@ VR is being used at every stage of production. Most common applications are:
 - Safety in seif-driving automobiles
 
 [![Watch the video](https://github.com/karishmagarikapalli/StudentChoice/blob/master/Screenshot%20(48).png)](https://www.youtube.com/watch?v=mWaQfjEJIMQ)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mWaQfjEJIMQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## At Marketing and Sales Level
 
 Recently, VR has become an efficient tool Automotive market to attract customers and increase sales. Here are a few instances:
-- VR Showrooms
+- VR Showrooms and Configuring Characters
 - Driving Experience
 - Reconstructing Senarios
-- Configuring Characters
 
-*insert Video*
+[![Watch the video](https://github.com/karishmagarikapalli/StudentChoice/blob/master/Screenshot%20(48).png)](https://www.youtube.com/watch?v=8q5jVaIgo2Q)
 
 ## At Customer End
 
@@ -36,11 +34,12 @@ VR is used to develop a lot of features benefiting customers, here are a few:
 
 ## Pros
 
-The usage of VR in the Automotive Industry has reduced costs, increased transparency and safety, reduces post-purchase dissonance.
-
-With a virtual showroom, automotive companies can make the process of purchasing a new vehicle less stressful.
-
-By using this experience, customers can toggle between a wide range of options to ensure that they end up choosing a final product that best suits their needs and personality. These options can be anything from the color of the interiors, customized seating arrangements, and seats among other options. The possibilities are endless. Another great advantage of a virtual showroom in comparison to a full-scale showroom is that the costs required to set up a virtual showroom are much lesser.
+The usage of VR in the Automotive Industry has revolutionalized it:
+- Reduced costs
+- Increased transparency and safety
+- Reduces post-purchase dissonance
+- Made the process of purchasing a new vehicle less stressful
+- Made customization more accessible
 
 ## Cons
 
