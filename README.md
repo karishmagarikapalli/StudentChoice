@@ -60,7 +60,7 @@ All of the above fade over time as one gains experience.
 
 ### Simulation Sickness - 3/10
 
-##Future Scope
+## Future Scope
 - Develop a greater range of virtual contexts
 - Use multi-sensory simulation 
 - Address perceived differences between virtual and real cars improve motion capture capabilities
