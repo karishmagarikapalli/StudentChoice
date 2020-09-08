@@ -9,6 +9,7 @@ VR is being used at every stage of production. Most common applications are:
 - Training
 - Safety in seif-driving automobiles
 
+[![Watch the video]()](https://www.youtube.com/watch?v=mWaQfjEJIMQ)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mWaQfjEJIMQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## At Marketing and Sales Level
