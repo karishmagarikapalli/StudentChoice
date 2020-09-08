@@ -9,7 +9,7 @@ VR is being used at every stage of production. Most common applications are:
 - Training
 - Safety in seif-driving automobiles
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/mWaQfjEJIMQ/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+[![Watch the video](https://img.youtube.com/vi/mWaQfjEJIMQ/0.jpg)](https://www.youtube.com/watch?v=mWaQfjEJIMQ)
 
 [![Watch the video](https://github.com/karishmagarikapalli/StudentChoice/blob/master/Screenshot%20(48).png)](https://www.youtube.com/watch?v=mWaQfjEJIMQ)
 
@@ -19,6 +19,8 @@ Recently, VR has become an efficient tool Automotive market to attract customers
 - VR Showrooms and Configuring Characters
 - Driving Experience
 - Reconstructing Senarios
+
+[![Watch the video](https://img.youtube.com/vi/8q5jVaIgo2Q/0.jpg)](https://www.youtube.com/watch?v=8q5jVaIgo2Q)
 
 [![Watch the video](https://github.com/karishmagarikapalli/StudentChoice/blob/master/Screenshot%20(49).png)](https://www.youtube.com/watch?v=8q5jVaIgo2Q)
 
@@ -31,6 +33,8 @@ VR is used to develop a lot of features benefiting customers, here are a few:
 - RADAR and Assistance Systems (Multi Information Display)
 - Driving Aids
 - Car Infotainment Systems
+
+[![Watch the video](https://img.youtube.com/vi/xMp5b8s67AU/0.jpg)](https://www.youtube.com/watch?v=xMp5b8s67AU)
 
 [![Watch the video](https://github.com/karishmagarikapalli/StudentChoice/blob/master/Screenshot%20(50).png)](https://www.youtube.com/watch?v=xMp5b8s67AU)
 
