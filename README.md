@@ -18,7 +18,7 @@ Recently, VR has become an efficient tool Automotive market to attract customers
 - Driving Experience
 - Reconstructing Senarios
 
-[![Watch the video](https://github.com/karishmagarikapalli/StudentChoice/blob/master/Screenshot%20(48).png)](https://www.youtube.com/watch?v=8q5jVaIgo2Q)
+[![Watch the video](https://github.com/karishmagarikapalli/StudentChoice/blob/master/Screenshot%20(49).png)](https://www.youtube.com/watch?v=8q5jVaIgo2Q)
 
 ## At Customer End
 
@@ -30,7 +30,7 @@ VR is used to develop a lot of features benefiting customers, here are a few:
 - Driving Aids
 - Car Infotainment Systems
 
-*Insert Video*
+[![Watch the video](https://github.com/karishmagarikapalli/StudentChoice/blob/master/Screenshot%20(49).png)](https://www.youtube.com/watch?v=xMp5b8s67AU)
 
 ## Pros
 
